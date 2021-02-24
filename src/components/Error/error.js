@@ -8,6 +8,7 @@ const Error = () => {
             in={true}
             timeout={250}
             classNames={errorTransition}
+            unmountOnExit
         >
             <div className={s.box}>Contact is already exists!</div>
             </CSSTransition>
