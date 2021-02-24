@@ -1,0 +1,20 @@
+.filter {
+  display: flex;
+  flex-direction: column;
+  max-width: 900px;
+  border-radius: 5px;
+  box-shadow: 0 0 5px rgb(167, 167, 167);
+  padding: 15px;
+  margin-bottom: 30px;
+  font: 30px sans-serif;
+  font-weight: 500;
+}
+.input {
+  border-color: #dbd8d7;
+  font: 30px sans-serif;
+  font-weight: 500;
+  padding: 20px;
+}
+/* .label{
+
+} */

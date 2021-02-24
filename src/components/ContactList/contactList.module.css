@@ -1,0 +1,30 @@
+.buttonDelete {
+  margin-left: 15px;
+  margin-left: auto;
+  background-color: #f04b05;
+  border-radius: 5px;
+  border: none;
+  background-size: cover;
+}
+
+.item {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 10px;
+  max-width: 900px;
+  border-radius: 5px;
+  box-shadow: 0 0 5px rgb(167, 167, 167);
+  padding: 15px;
+  list-style: none;
+  font-size: 20px;
+  margin-bottom: 30px;
+}
+.number {
+  margin-left: auto;
+}
+
+.buttonDelete:focus {
+  background-color: #943c16;
+  border: #943c16;
+}
